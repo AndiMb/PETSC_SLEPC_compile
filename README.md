@@ -5,7 +5,7 @@
 2. Install Visual Studio Community (Hint: If the OS language is different than English, do install [only] English. Otherwise all compiler language are not in english an the filter during PETSc configuration will not work.)
 3. Download and Install Intel oneAPI Base Toolkit - MKL (https://www.intel.com/content/www/us/en/developer/tools/oneapi/toolkits.html)
 4. Download and Install Intel oneAPI HPC Toolkit - classic C/C++ and FORTRAN compiler (https://www.intel.com/content/www/us/en/developer/tools/oneapi/toolkits.html)
-5. Install Cygwin (https://www.cygwin.com/install.html) with wget, make, python3, git
+5. Install Cygwin (https://www.cygwin.com/install.html) with wget, make, python3, git (Steps from https://petsc.org/main/install/windows/)
 6. Start > Intel oneAPI 2022 > Intel oneAPI command prompt for Intel 64 for Visual Studio 2022. This should start a “dos cmd” shell.
 7. Within this shell - run Cygwin terminal/bash-shell mintty.exe as:
 ```
